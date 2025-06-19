@@ -1,4 +1,4 @@
-project = 'Roadrunner Login'
+project = 'roadrunner login'
 author = 'Your Name'
 release = '1.0'
 
